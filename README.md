@@ -9,7 +9,7 @@ The main purpose of this project is to convert long URLs into short links that c
 - Java
 - Spring Boot
 - Spring Data JPA / Hibernate
-- MySQL
+- H2 Database 
 - Maven
 
 ## Features
